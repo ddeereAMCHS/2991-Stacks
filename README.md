@@ -1,6 +1,6 @@
 # Stacks
 
-- Create a Stack class
+- Create a Stack class that will hold Integers
   - Implement the constructor
   - Implement the push method
   - Implement the pop method
@@ -10,7 +10,7 @@
   - Implement a toString method that prints the stack with the top of the stack as the first element
     - Separate the elements with commas and surround all the elements with square brackets
 - Create a program called `StackTester.java`
-  - Create a Stack object
+  - Create a Stack object that will hold Integers
   - Prompt the user for a filename
   - Each line in the file will be a stack operation or the print command
     - For push and pop operations, do not print anything
