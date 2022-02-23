@@ -7,7 +7,7 @@
   - Implement the peek method
   - Implement the size method
   - Implement the isEmpty method
-  - Implemen a toString method that prints the stack with the top of the stack as the first element
+  - Implement a toString method that prints the stack with the top of the stack as the first element
     - Separate the elements with commas and surround all the elements with square brackets
 - Create a program called `StackTester.java`
   - Create a Stack object
