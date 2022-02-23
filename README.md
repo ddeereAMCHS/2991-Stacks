@@ -1,12 +1,14 @@
 # Stacks
 
 - Create a Stack class that will hold Integers
+  - You need to determine how you will store the underlying data
   - Implement the constructor
   - Implement the push method
   - Implement the pop method
   - Implement the peek method
   - Implement the size method
   - Implement the isEmpty method
+    - Do not use any underlying isEmpty method
   - Implement a toString method that returns the stack with the top of the stack as the first element
     - Separate the elements with commas and surround all the elements with square brackets
 - Create a program called `StackTester.java`
