@@ -8,7 +8,7 @@
   - Implement the peek method
   - Implement the size method
   - Implement the isEmpty method
-    - Do not use any underlying isEmpty method
+    - Do not use an isEmpty method for an underlying data structure
   - Implement a toString method that returns the stack with the top of the stack as the first element
     - Separate the elements with commas and surround all the elements with square brackets
 - Create a program called `StackTester.java`
