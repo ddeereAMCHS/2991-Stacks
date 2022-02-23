@@ -13,6 +13,9 @@
   - Create a Stack object
   - Prompt the user for a filename
   - Each line in the file will be a stack operation or the print command
+    - For push and pop operations, do not print anything
+    - For peek, size, and isEmpty operations, print what is returned
+    - For print operations, print the stack
   - You must read in the line and perform the specified operation on the Stack object you created
 
 ***Example Input:***\
