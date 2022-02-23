@@ -21,9 +21,47 @@
 ***Example Input:***\
 input1.txt\
 ***Example Contents of input1.txt:***\
-\
+push 7\
+push 12\
+print\
+push 19\
+push 37\
+print\
+pop\
+print\
+peek\
+size\
+isEmpty\
+push 72\
+print\
+pop\
+pop\
+pop\
+print\
+peek\
+size\
+isEmpty\
+pop\
+print\
+peek\
+size\
+isEmpty\
 ***Example Output:***\
-
+[12, 7]\
+[37, 19, 12, 7]\
+[19, 12, 7]\
+19\
+3\
+false\
+[72, 19, 12, 7]\
+[7]\
+7\
+1\
+false\
+[]\
+null\
+0\
+true
 - - - - - - - - - - - -
 
 ## Extra Credit
